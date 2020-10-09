@@ -1,0 +1,100 @@
+.headline-1 {
+  font-size: 72px;
+  line-height: 98px;
+  font-weight: 900;
+}
+.headline-2 {
+  font-size: 48px;
+  line-height: 64px;
+  font-weight: 900;
+}
+.headline-3 {
+  font-size: 40px;
+  line-height: 54px;
+  font-weight: 900;
+}
+.headline-4 {
+  font-size: 28px;
+  line-height: 40px;
+  font-weight: 900;
+}
+.headline-5 {
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 700;
+}
+.headline-6 {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 600;
+}
+
+.subtitle-1 {
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 600;
+}
+.subtitle-2 {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 600;
+}
+
+.lead-1 {
+  font-size: 18px;
+  line-height: 32px;
+  font-weight: 400;
+}
+.lead-2 {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 600;
+}
+
+.body-1 {
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+}
+.body-2 {
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 400;
+}
+
+.label-large {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 700;
+}
+.label-medium {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+}
+.label-small {
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 700;
+}
+.label-badge {
+  font-family: 'NanumPenScript';
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+.capitalised {
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 2px;
+  font-weight: 900;
+}
+
+.link-purple {
+  color: $purple900;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 800;
+}
